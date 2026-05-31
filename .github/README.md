@@ -7,6 +7,6 @@
 You can install it via Vibranium Menu or by using this command:
 
 ```bash
-vb-theme-install https://github.com/shvedes/vibranium-theme-Kihciahken
+vb-theme-install https://github.com/shvedes/vibranium-theme-kihciahken
 ```
 
